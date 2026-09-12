@@ -8,10 +8,10 @@ Insights and recommendation is provided on the the following key areas:
 . Participation Predictive Analysis
 . Recommendation and Conclusion
 
-Data Structure Overview
+# Data Structure Overview
 
-Executive Summary
+# Executive Summary
 
-Insight Deep Dive
+# Insight Deep Dive
 
-Recommendations
+# Recommendations
