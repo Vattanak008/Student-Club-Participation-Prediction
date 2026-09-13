@@ -22,12 +22,12 @@ Using historical data observed from 2025, student club's predicted participants 
 * Afterschool Club future participants is significantly less than its current participants.
 * Music Club is predicted to increase in the upcoming academic year by 133 participants.
 
-Histogram
+Dashboard
 
-<img width="1064" height="517" alt="image" src="https://github.com/user-attachments/assets/fb356944-325d-4e4c-a69f-ed8f7b21d554" />
+<img width="791" height="443" alt="image" src="https://github.com/user-attachments/assets/df3735ba-4cb6-4556-b5f4-9e964c1468a1" />
 
 # Recommendations
 
-* **Budget Allocation**: Distribute more funding to Music Club while decrease significant amount to Afterschool Club as it is predicted to decrease.
+* **Budget Allocation**: Distribute more funding to Music Club while decrease significant amount from Afterschool Club as it is predicted to decrease.
 * **Event Focus**: Increase event promotion rather than small activity as it is the catalyst of participant generation.
 * **Future Request**: As more than half student clubs will increase in participants, it is promoted that the over budget of Student Clubs and Cultural Activities Center to have a budget increase.
