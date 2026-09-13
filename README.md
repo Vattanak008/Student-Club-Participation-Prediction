@@ -21,6 +21,7 @@ Using historical data observed from 2025, student club's predicted participants 
 * Event done is more impactful than number of member based on regression model.
 * Afterschool Club future participants is significantly less than its current participants.
 * Music Club is predicted to increase in the upcoming academic year by 133 participants.
+* Overall, the amount of participation remain the same for the future academic year, averaged at 138 participants.
 
 Dashboard
 
